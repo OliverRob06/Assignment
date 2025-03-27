@@ -15,7 +15,8 @@
     <body>
         <header>
             <!-- Navbar -->
-            <nav class="nav nav-tabs nav-fill bg-dark  " id="navId" role="tablist">
+            <nav class="nav nav-tabs nav-fill bg-dark  " id="navId">
+                <ul>
                 <li class="nav-item" role="presentation">
                     <a href="#" class="nav-link" data-bs-toggle="tab">
                         <img src="pen.png" width="30" height="30" alt="Pen">
@@ -36,6 +37,7 @@
                 <li class="nav-item" role="presentation">
                     <a href="#tab5Id" class="nav-link" data-bs-toggle="tab">Another link</a>
                 </li>
+            </ul>
             </nav>
         </header>
 
