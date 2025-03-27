@@ -1,7 +1,8 @@
 <!doctype html>
 <html lang="en">
     <head>
-        <title>Title</title>
+        <title>  Pen Shop  </title>
+        <link rel = "icon" type = "image/x-icon" href = "pen.png">
         <!-- Required meta tags -->
         <meta charset="utf-8" />
         <meta
@@ -22,21 +23,41 @@
         <header>
             <!-- place navbar here -->
              <!-- Nav tabs -->
+            
 
-             <ul
-                class="nav nav-tabs nav justify-content-center"
+
+
+        <ul>
+
+             <nav
+                class="nav nav-tabs nav justify-content-end bg-dark
+                "
                 id="navId"
                 role="tablist"
              >
-                <li class="nav-item">
-                    <a
-                        href="#tab1Id"
-                        class="nav-link active"
-                        data-bs-toggle="tab"
-                        aria-current="page"
-                        >Active</a
+
+
+             <li class="nav-item" role="presentation">
+                <a href="#" class="nav-link" data-bs-toggle="tab"
+                    > <img src = "pen.png" width = "30" height="30"></a
+                >
+            </li>   
+
+
+
+            <li class="nav-item">
+                <a
+                    href="#tab1Id"
+                    class="nav-link active"
+                    data-bs-toggle="tab"
+                    aria-current="page"
+                    >Active</a
                     >
                 </li>
+
+
+
+
                 <li class="nav-item dropdown">
                     <a
                         class="nav-link dropdown-toggle"
@@ -56,19 +77,16 @@
                 </li>
                 <li class="nav-item" role="presentation">
                     <a href="#tab5Id" class="nav-link" data-bs-toggle="tab"
-                        >Another link</a
-                    >
+                        >Another link
+                    </a>
                 </li>
-                <li class="nav-item" role="presentation">
-                    <a href="#" class="nav-link disabled" data-bs-toggle="tab"
-                        >Disabled</a
-                    >
-                </li>
-             </ul>
-
-             
-        </header>
-        <main></main>
+            </ul>
+        </nav>   
+    </header>
+    
+    
+    <main>
+    </main>
         <footer>
             <!-- place footer here -->
         </footer>
