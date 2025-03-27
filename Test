@@ -2,7 +2,7 @@
 <html lang="en">
     <head>
         <title>  Pen Shop  </title>
-        <link rel = "icon" type = "image/x-icon" href = "pen.png">
+        <link rel = "icon"  href = "pen.png" type = "image/png>
         <!-- Required meta tags -->
         <meta charset="utf-8" />
         <meta
@@ -23,11 +23,8 @@
         <header>
             <!-- place navbar here -->
              <!-- Nav tabs -->
-            
 
-
-
-        <ul>
+        </ul>
 
              <nav
                 class="nav nav-tabs nav justify-content-end bg-dark
@@ -77,18 +74,36 @@
                 </li>
                 <li class="nav-item" role="presentation">
                     <a href="#tab5Id" class="nav-link" data-bs-toggle="tab"
-                        >Another link
-                    </a>
+                        >Another link</a
+                    >
                 </li>
-            </ul>
-        </nav>   
-    </header>
-    
-    
-    <main>
-    </main>
+                
+           
+             
+        </header>
+        <main>
+            <div class="container my-5">
+                <div class="row">
+                    <div class="col-sm">
+                        <p class="text-left">One of three columns</p>
+                    </div>
+                    <div class="col-sm">
+                        <p class="text-center">One of three columns</p>
+                    </div>
+                    <div class="col-sm">
+                        <p class="text-end">One of three columns</p>
+                    </div>
+                </div>
+            </div>
+        </main>
+        
+        </main>
         <footer>
             <!-- place footer here -->
+             
+            <center> footer:</center>
+            <center>
+                 mentum nisl varius ac. Morbi sollicitudin orci arcu, venenatis  </center>
         </footer>
         <!-- Bootstrap JavaScript Libraries -->
         <script
