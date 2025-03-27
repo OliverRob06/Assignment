@@ -15,7 +15,7 @@
 <body>
     <header>
         <!-- Navbar -->
-        <nav class="nav nav-tabs nav-fill bg-dark" id="navId" role="tablist">
+        <nav class="nav nav-tabs nav-fill bg-dark  " id="navId" role="tablist">
             <li class="nav-item" role="presentation">
                 <a href="#" class="nav-link" data-bs-toggle="tab">
                     <img src="pen.png" width="30" height="30" alt="Pen">
@@ -41,13 +41,13 @@
 
     <main>
 
-     <p class = "text-center"> </p>
+     <h1 class = "text-center fw-bold text-decoration-underline">  Semper Vehicula </h1>
 
 
         <div class="container">
             <div class="row  col-sm text-center ">
-                    <div class="card col-sm rounded-3 border-black m-3 bg-success pt-2">
-                        <img class="card-img-top pt-2" src= "https://placehold.co/250x250" alt="Card image cap" >
+                <div class="card col-sm rounded-3 border-black m-3 bg-success pt-2 shadow-lg">
+                    <img class="card-img-top pt-2" src= "https://placehold.co/250x250" alt="Card image cap" >
                         <div class="card-body pt-4">
                             <h5 class="card-title pt-2 fw-bold">Donec venenatis</h4>
                                 <p class="card-text pt-2">Proin posuere volutpat odio, in condimentum nisl varius ac. Morbi sollicitudin orci arcu, venenatis ornare tellus maximus vel.</p>
@@ -55,7 +55,7 @@
                         </div>
                     </div>
 
-                    <div class="card col-sm rounded-3 border-black m-3 bg-success pt-2">
+                    <div class="card col-sm rounded-3 border-black m-3 bg-success pt-2 shadow-lg">
                         <img class="card-img-top pt-2" src="https://placehold.co/250x250" alt="Card image cap">
                         <div class="card-body pt-4">
                           <h5 class="card-title pt-2 fw-bold">Donec venenatis</h4>
@@ -64,7 +64,7 @@
                         </div>
                     </div>
 
-                    <div class="card col-sm rounded-3 border-black m-3 bg-success pt-2">
+                    <div class="card col-sm rounded-3 border-black m-3 bg-success pt-2 shadow-lg">
                         <img class="card-img-top pt-2" src= "https://placehold.co/250x250" alt="Card image cap">
                         <div class="card-body pt-4">
                             <h5 class="card-title pt-2 fw-bold">Donec venenatis</h4>
@@ -140,7 +140,7 @@
         
 
     </main>
-    <footer class = "pt-2 text-center">
+    <footer class = "pt-2 text-center shadow-lg">
         <a href = "" target="_blank"> Cookies Policy</a>
     </footer>
 
