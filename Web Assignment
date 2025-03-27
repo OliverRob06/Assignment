@@ -1,151 +1,151 @@
-<!doctype html>
-<html lang="en">
-<head>
-    <title>Pen Shop</title>
-    <link rel="icon" href="pen.png" type="image/png">
+    <!doctype html>
+    <html lang="en">
+    <head>
+        <title>Pen Shop</title>
+        <link rel="icon" href="pen.png" type="image/png">
 
-    <!-- Required meta tags -->
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <!-- Required meta tags -->
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
 
-    <!-- Bootstrap CSS v5.2.1 -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
-</head>
+        <!-- Bootstrap CSS v5.2.1 -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+    </head>
 
-<body>
-    <header>
-        <!-- Navbar -->
-        <nav class="nav nav-tabs nav-fill bg-dark  " id="navId" role="tablist">
-            <li class="nav-item" role="presentation">
-                <a href="#" class="nav-link" data-bs-toggle="tab">
-                    <img src="pen.png" width="30" height="30" alt="Pen">
-                </a>
-            </li>
-            <li class="nav-item" role="presentation">
-                <a href="#tab1Id" class="nav-link active" data-bs-toggle="tab" aria-current="page">Active</a>
-            </li>
-            <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
-                <div class="dropdown-menu">
-                    <a class="dropdown-item" href="#tab2Id">Action</a>
-                    <a class="dropdown-item" href="#tab3Id">Another action</a>
-                    <div class="dropdown-divider"></div>
-                    <a class="dropdown-item" href="#tab4Id">Action</a>
-                </div>
-            </li>
-            <li class="nav-item" role="presentation">
-                <a href="#tab5Id" class="nav-link" data-bs-toggle="tab">Another link</a>
-            </li>
-        </nav>
-    </header>
-
-    <main>
-
-     <h1 class = "text-center fw-bold text-decoration-underline">  Semper Vehicula </h1>
-
-
-        <div class="container">
-            <div class="row  col-sm text-center ">
-                <div class="card col-sm rounded-3 border-black m-3 bg-success pt-2 shadow-lg">
-                    <img class="card-img-top pt-2" src= "https://placehold.co/250x250" alt="Card image cap" >
-                        <div class="card-body pt-4">
-                            <h5 class="card-title pt-2 fw-bold">Donec venenatis</h4>
-                                <p class="card-text pt-2">Proin posuere volutpat odio, in condimentum nisl varius ac. Morbi sollicitudin orci arcu, venenatis ornare tellus maximus vel.</p>
-                            <a href="#" class="btn btn-primary">ut ultrices</a>
-                        </div>
+    <body>
+        <header>
+            <!-- Navbar -->
+            <nav class="nav nav-tabs nav-fill bg-dark  " id="navId" role="tablist">
+                <li class="nav-item" role="presentation">
+                    <a href="#" class="nav-link" data-bs-toggle="tab">
+                        <img src="pen.png" width="30" height="30" alt="Pen">
+                    </a>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <a href="#tab1Id" class="nav-link active" data-bs-toggle="tab" aria-current="page">Active</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="#tab2Id">Action</a>
+                        <a class="dropdown-item" href="#tab3Id">Another action</a>
+                        <div class="dropdown-divider"></div>
+                        <a class="dropdown-item" href="#tab4Id">Action</a>
                     </div>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <a href="#tab5Id" class="nav-link" data-bs-toggle="tab">Another link</a>
+                </li>
+            </nav>
+        </header>
 
+        <main>
+
+        <h1 class = "text-center fw-bold text-decoration-underline">  Semper Vehicula </h1>
+
+
+            <div class="container">
+                <div class="row  col-sm text-center ">
                     <div class="card col-sm rounded-3 border-black m-3 bg-success pt-2 shadow-lg">
-                        <img class="card-img-top pt-2" src="https://placehold.co/250x250" alt="Card image cap">
-                        <div class="card-body pt-4">
-                          <h5 class="card-title pt-2 fw-bold">Donec venenatis</h4>
-                            <p class="card-text pt-2">Proin posuere volutpat odio, in condimentum nisl varius ac. Morbi sollicitudin orci arcu, venenatis ornare tellus maximus vel.</p>
-                            <a href="#" class="btn btn-primary">ut ultrices</a>
+                        <img class="card-img-top pt-2" src= "https://placehold.co/250x250" alt="Card image cap" >
+                            <div class="card-body pt-4">
+                                <h5 class="card-title pt-2 fw-bold">Donec venenatis</h5>
+                                    <p class="card-text pt-2">Proin posuere volutpat odio, in condimentum nisl varius ac. Morbi sollicitudin orci arcu, venenatis ornare tellus maximus vel.</p>
+                                <a href="#" class="btn btn-primary">ut ultrices</a>
+                            </div>
                         </div>
-                    </div>
 
-                    <div class="card col-sm rounded-3 border-black m-3 bg-success pt-2 shadow-lg">
-                        <img class="card-img-top pt-2" src= "https://placehold.co/250x250" alt="Card image cap">
-                        <div class="card-body pt-4">
-                            <h5 class="card-title pt-2 fw-bold">Donec venenatis</h4>
+                        <div class="card col-sm rounded-3 border-black m-3 bg-success pt-2 shadow-lg">
+                            <img class="card-img-top pt-2" src="https://placehold.co/250x250" alt="Card image cap">
+                            <div class="card-body pt-4">
+                            <h5 class="card-title pt-2 fw-bold">Donec venenatis</h5>
                                 <p class="card-text pt-2">Proin posuere volutpat odio, in condimentum nisl varius ac. Morbi sollicitudin orci arcu, venenatis ornare tellus maximus vel.</p>
-                            <a href="#" class="btn btn-primary">ut ultrices</a>
+                                <a href="#" class="btn btn-primary">ut ultrices</a>
+                            </div>
+                        </div>
+
+                        <div class="card col-sm rounded-3 border-black m-3 bg-success pt-2 shadow-lg">
+                            <img class="card-img-top pt-2" src= "https://placehold.co/250x250" alt="Card image cap">
+                            <div class="card-body pt-4">
+                                <h5 class="card-title pt-2 fw-bold">Donec venenatis</h5>
+                                    <p class="card-text pt-2">Proin posuere volutpat odio, in condimentum nisl varius ac. Morbi sollicitudin orci arcu, venenatis ornare tellus maximus vel.</p>
+                                <a href="#" class="btn btn-primary">ut ultrices</a>
+                            </div>
+                        </div>
+
+
+
+                </div>
+            </div>          
+                
+            
+
+            <div class="container">
+                <div class="row">
+                    <!-- First Carousel -->
+                    <div class="col-sm-6 pt-2">
+                        <div id="carouselExampleSlidesOnly1" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img class="d-block w-100" src="https://placehold.co/350x250" alt="Image 1">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100" src="https://placehold.co/350x250" alt="Image 2">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100" src="https://placehold.co/350x250" alt="Image 3">
+                                </div>
+                            </div>
+                            
+                            <!-- Carousel Controls -->
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleSlidesOnly1" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleSlidesOnly1" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
                         </div>
                     </div>
-
-
-
-            </div>
-        </div>          
-               
-        
-
-        <div class="container">
-            <div class="row">
-                <!-- First Carousel -->
-                <div class="col-sm-6 pt-2">
-                    <div id="carouselExampleSlidesOnly1" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <img class="d-block w-100" src="https://placehold.co/350x250" alt="Image 1">
+            
+                    <!-- Second Carousel -->
+                    <div class="col-sm-6 pt-2">
+                        <div id="carouselExampleSlidesOnly2" class="carousel slide" data-bs-ride="carousel">
+                            <div class="carousel-inner">
+                                <div class="carousel-item active">
+                                    <img class="d-block w-100" src="https://placehold.co/350x250" alt="Image 1">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100" src="https://placehold.co/350x250" alt="Image 2">
+                                </div>
+                                <div class="carousel-item">
+                                    <img class="d-block w-100" src="https://placehold.co/350x250" alt="Image 3">
+                                </div>
                             </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="https://placehold.co/350x250" alt="Image 2">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="https://placehold.co/350x250" alt="Image 3">
-                            </div>
+                            
+                            <!-- Carousel Controls -->
+                            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleSlidesOnly2" data-bs-slide="prev">
+                                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Previous</span>
+                            </button>
+                            <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleSlidesOnly2" data-bs-slide="next">
+                                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                                <span class="visually-hidden">Next</span>
+                            </button>
                         </div>
-                        
-                        <!-- Carousel Controls -->
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleSlidesOnly1" data-bs-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Previous</span>
-                        </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleSlidesOnly1" data-bs-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Next</span>
-                        </button>
                     </div>
                 </div>
-        
-                <!-- Second Carousel -->
-                <div class="col-sm-6 pt-2">
-                    <div id="carouselExampleSlidesOnly2" class="carousel slide" data-bs-ride="carousel">
-                        <div class="carousel-inner">
-                            <div class="carousel-item active">
-                                <img class="d-block w-100" src="https://placehold.co/350x250" alt="Image 1">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="https://placehold.co/350x250" alt="Image 2">
-                            </div>
-                            <div class="carousel-item">
-                                <img class="d-block w-100" src="https://placehold.co/350x250" alt="Image 3">
-                            </div>
-                        </div>
-                        
-                        <!-- Carousel Controls -->
-                        <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleSlidesOnly2" data-bs-slide="prev">
-                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Previous</span>
-                        </button>
-                        <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleSlidesOnly2" data-bs-slide="next">
-                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                            <span class="visually-hidden">Next</span>
-                        </button>
-                    </div>
-                </div>
             </div>
-        </div>
-        
+            
 
-    </main>
-    <footer class = "pt-2 text-center shadow-lg">
-        <a href = "" target="_blank"> Cookies Policy</a>
-    </footer>
+        </main>
+        <footer class = "pt-2 text-center shadow-lg">
+            <a href = "" target="_blank"> Cookies Policy</a>
+        </footer>
 
-    <!-- Bootstrap JavaScript Libraries -->
-    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
-</body>
-</html>
+        <!-- Bootstrap JavaScript Libraries -->
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js" integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+" crossorigin="anonymous"></script>
+    </body>
+    </html>
