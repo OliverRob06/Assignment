@@ -15,8 +15,8 @@
     <body>
         <header>
             <!-- Navbar -->
-            <nav class="nav nav-tabs nav-fill bg-dark  " id="navId">
-                <ul>
+            <nav>
+                <ul class="nav nav-tabs nav-fill bg-dark  " id="navId">
                 <li class="nav-item" role="presentation">
                     <a href="#" class="nav-link" data-bs-toggle="tab">
                         <img src="pen.png" width="30" height="30" alt="Pen">
